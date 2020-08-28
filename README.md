@@ -34,7 +34,7 @@ Note: You need AWS credentials of an IAM user who has FullAccess to AWS Comprehe
 
 ## See the block running
 
-![airdesk](https://raw.githubusercontent.com/msvdpriya/AirDesk/master/media/airdesk.png "AirDesk")
+![airdesk](https://raw.githubusercontent.com/sumanthreddym/AirDesk/master/airdesk.png?token=ADWNQHDD3WO24DWQXLCABWK7JFTDU "AirDesk")
 
 ## How we built it
 
